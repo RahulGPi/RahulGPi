@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Rahul Pai<br>
 
 # 💫 About Me:
-Just a guy downbad for clean code and clever algorithms.<br>🐍 Python is my main — I vibe best with machine learning and making machines think.<br>🧠 Super into how logic, data, and a bit of creativity come together to solve problems.<br>🎓 Currently studying at Sahyadri College of Engineering and Management — grinding through assignments and chasing that perfect output.<br>🌌 Dreaming big, debugging late, and living somewhere between a compiler error and a breakthrough.<br><br>Let's build something cool (and maybe accidentally fall in love with our own projects too 😮‍💨).
+Just a guy downbad for clean code and clever algorithms.<br>🐍 Python is my main — I do best with machine learning and making machines think.<br>🧠 Super into how logic, data, and a bit of creativity come together to solve problems.<br>🎓 Currently studying at Sahyadri College of Engineering and Management — grinding through assignments and chasing that perfect output.<br>🌌 Dreaming big, debugging late, and living somewhere between a compiler error and a breakthrough.<br><br>Let's build something cool (and maybe accidentally fall in love with our own projects too 😮‍💨).
 
 
 ## 🌐 Socials:
