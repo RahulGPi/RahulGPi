@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="128" viewBox="0 0 400 128" role="img" aria-labelledby="title desc">
+  <title id="title">TerraFlow</title>
+  <desc id="desc">Site selection from satellite imagery. Geospatial ML.</desc>
+  <rect x=".5" y=".5" width="399" height="127" rx="13" fill="#151813" stroke="#373d30"/>
+  <g transform="translate(19 16) scale(.76)" fill="none" stroke="#cdef69" stroke-width="1.8" stroke-linejoin="round"><path d="m1 18 7-10 6 6 4-8 11 14M2 24h26"/><circle cx="22" cy="3" r="2"/></g>
+  <text x="58" y="32" fill="#bcc4ad" font-family="'IBM Plex Mono', monospace" font-size="13">Geospatial ML</text>
+  <path d="M365 34l12-12m-10 0h10v10" stroke="#cdef69" stroke-width="1.7" fill="none"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="19" y="75" fill="#f2f3e8" font-size="29" font-weight="700" letter-spacing="-.9">TerraFlow</text>
+    <text x="20" y="104" fill="#bac1ae" font-size="17">Site selection from satellite imagery.</text>
+  </g>
+</svg>
