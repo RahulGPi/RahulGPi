@@ -1,6 +1,6 @@
 [![Rahul Pai, AI systems engineer. Open portfolio.](assets/rahul-pai-cover.webp)](https://rahul-pai.vercel.app/)
 
-I build AI agents that query databases, retrieve past conversations, and use tools to carry out tasks. I also develop computer vision software for facial privacy.
+I am obsessed with building and supporting teams that develop great products to help accomplish the vision.
 
 [Portfolio](https://rahul-pai.vercel.app/) · [Hugging Face](https://huggingface.co/RahulPi) · [PyPI](https://pypi.org/user/RahulGPi/) · [LinkedIn](https://www.linkedin.com/in/rahul-pai17/)
 
