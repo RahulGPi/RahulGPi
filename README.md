@@ -14,7 +14,7 @@ I build AI agents that query databases, retrieve past conversations, and use too
 
 ## Region-Aware FastProtect
 
-I built a desktop application for protecting portraits against unauthorized face recognition and generative reuse. FastProtect processes the facial region in a single pass. Its desktop viewer shows the original and processed portraits side by side. [FastProtect](https://github.com/RahulGPi/Fast_Protect) · [Desktop demo](https://github.com/RahulGPi/Fast_Protect/tree/main/Demo)
+I built a desktop application for protecting portraits against unauthorized face recognition and generative reuse. FastProtect processes the facial region in a single pass. Its desktop viewer shows the original and processed portraits side by side.
 
 ## Experience
 
