@@ -39,7 +39,7 @@ I built a desktop application for protecting portraits against unauthorized face
 
 ## Open Source Contributions
 
-- Proposed `map.len()` support for the Polars backend so Narwhals users can count entries in each map. [Narwhals repository](https://github.com/narwhals-dev/narwhals) · [Pull request #4182](https://github.com/narwhals-dev/narwhals/pull/4182)
+- [Narwhals](https://github.com/narwhals-dev/narwhals) : [#4182](https://github.com/narwhals-dev/narwhals/pull/4182)
 
 ## GitHub activity
 
