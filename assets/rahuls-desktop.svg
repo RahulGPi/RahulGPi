@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+  <title id="title">Rahul π — TriTierCache</title>
+  <desc id="desc">A Windows XP-inspired desktop with green hills, a Start button, and a cache inspector. Solid blocks show recent tokens, outlined blocks show retained older tokens, and a fine grid shows compressed tokens.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#4387da"/>
+      <stop offset=".64" stop-color="#8bcef4"/>
+      <stop offset="1" stop-color="#e0f2ee"/>
+    </linearGradient>
+    <linearGradient id="meadow" x2=".3" y2="1">
+      <stop stop-color="#c1e56f"/>
+      <stop offset=".4" stop-color="#92c957"/>
+      <stop offset="1" stop-color="#569d49"/>
+    </linearGradient>
+    <linearGradient id="titlebar" x2="0" y2="1">
+      <stop stop-color="#77aeff"/>
+      <stop offset=".12" stop-color="#327cf3"/>
+      <stop offset=".58" stop-color="#1760d6"/>
+      <stop offset="1" stop-color="#1649b3"/>
+    </linearGradient>
+    <linearGradient id="taskbar" x2="0" y2="1">
+      <stop stop-color="#609dfa"/>
+      <stop offset=".14" stop-color="#3479e1"/>
+      <stop offset=".84" stop-color="#2158be"/>
+      <stop offset="1" stop-color="#17449f"/>
+    </linearGradient>
+    <linearGradient id="start" x2="0" y2="1">
+      <stop stop-color="#addb78"/>
+      <stop offset=".14" stop-color="#549b42"/>
+      <stop offset=".72" stop-color="#347a32"/>
+      <stop offset="1" stop-color="#245c26"/>
+    </linearGradient>
+    <pattern id="recent" width="25" height="25" patternUnits="userSpaceOnUse" x="64" y="143">
+      <rect width="21" height="21" fill="#2c61a3"/>
+      <path d="M1 20V1h19" fill="none" stroke="#87b9e1" stroke-width="2"/>
+    </pattern>
+    <pattern id="retained" width="25" height="25" patternUnits="userSpaceOnUse" x="252" y="143">
+      <path d="M1.5 1.5h18v18h-18z" fill="#fff0bd" stroke="#995f16" stroke-width="3"/>
+      <path d="M8 8h5v5H8z" fill="#995f16"/>
+    </pattern>
+    <pattern id="compressed" width="8" height="8" patternUnits="userSpaceOnUse" x="440" y="143">
+      <path d="M0 0h6v6H0z" fill="#557465"/>
+    </pattern>
+    <g id="cloud">
+      <path d="M0 34h12v-9h14V15h18v-9h36v8h12v7h20v10h15v7h-11v5H13v-4H0z" fill="#e9f6ff"/>
+      <path d="M13 39h83v-5h20v-3h11v7h-11v5H13z" fill="#c6e2f5"/>
+    </g>
+    <g id="monitor" shape-rendering="crispEdges">
+      <path d="M0 0h27v21H16v4h6v3H4v-3h7v-4H0z" fill="#193455"/>
+      <path d="M0 0h26v19H0z" fill="#e8e5d3"/>
+      <path d="M3 3h20v13H3z" fill="#246093"/>
+      <path d="M5 12h5V9h5V6h6v8H5z" fill="#82cfb5"/>
+    </g>
+  </defs>
+
+  <!-- Desktop wallpaper -->
+  <rect width="960" height="300" fill="url(#sky)"/>
+  <use xlink:href="#cloud" transform="translate(608 26) scale(.55)"/>
+  <use xlink:href="#cloud" transform="translate(745 22) scale(1.13)"/>
+  <use xlink:href="#cloud" transform="translate(914 80) scale(.64)"/>
+  <path d="M0 172Q148 134 344 170T651 166Q831 99 960 135V270H0z" fill="#78a78b"/>
+  <path d="M0 191Q161 158 350 187T659 177Q845 120 960 149V270H0z" fill="#84b677"/>
+  <path d="M0 154Q198 99 487 169T960 201V270H0z" fill="url(#meadow)"/>
+  <path d="M0 173Q162 119 399 159T781 212Q862 213 960 195V205Q824 233 664 210L394 165Q145 124 0 183z" fill="#d1e881" opacity=".55"/>
+  <path d="M0 226Q211 173 474 218T960 195V269H0z" fill="#559b53"/>
+  <path d="M0 245Q181 184 473 233T960 212V266H0z" fill="#438d55"/>
+  <g fill="#b9dc79" shape-rendering="crispEdges">
+    <path d="M694 225h2v-3h2v3h3v2h-7zM816 219h2v-4h2v4h4v2h-8zM877 227h3v-3h2v3h2v2h-7z"/>
+    <path d="M734 238h2v-4h2v4h3v2h-7zM926 208h3v-3h2v3h3v2h-8z"/>
+  </g>
+
+  <!-- Cache inspector -->
+  <rect x="33" y="23" width="603" height="209" rx="8" fill="#1b3b5e" opacity=".27"/>
+  <rect x="28" y="18" width="603" height="209" rx="8" fill="url(#titlebar)" stroke="#184692" stroke-width="2"/>
+  <path d="M32 68h595v155H32z" fill="#ece9d8"/>
+  <path d="M35 70h589" stroke="#fffbed" stroke-width="2"/>
+  <use xlink:href="#monitor" x="47" y="31"/>
+  <g font-family="Tahoma, 'DejaVu Sans', sans-serif">
+    <text x="87" y="55" font-weight="700" font-size="35" fill="#fff">Rahul π</text>
+    <g stroke="#c5dfff" stroke-width="1.5">
+      <rect x="551" y="33" width="25" height="24" rx="3" fill="#3676d6"/>
+      <rect x="582" y="33" width="25" height="24" rx="3" fill="#be5039"/>
+    </g>
+    <g fill="none" stroke="#fff" stroke-width="2.8">
+      <path d="M557 51h12m20-12 11 12m0-12-11 12"/>
+    </g>
+    <text x="52" y="111" font-size="32" font-weight="700" fill="#1d2a3c">TriTierCache</text>
+    <path d="M52 125h554v83H52z" fill="#fffdf6" stroke="#fff"/>
+    <path d="M52 208v-83h554" fill="none" stroke="#a69f90" stroke-width="2"/>
+    <path d="M237 136v59m188-59v59" stroke="#d3d0c3"/>
+    <g shape-rendering="crispEdges">
+      <rect x="64" y="143" width="146" height="21" fill="url(#recent)"/>
+      <rect x="252" y="143" width="146" height="21" fill="url(#retained)"/>
+      <rect x="440" y="143" width="150" height="22" fill="url(#compressed)"/>
+    </g>
+    <g font-size="20" fill="#34424c">
+      <text x="64" y="192">Recent</text>
+      <text x="252" y="192">Retained</text>
+      <text x="440" y="192">Compressed</text>
+    </g>
+  </g>
+
+  <!-- Taskbar and Start button -->
+  <path d="M0 251h960v49H0z" fill="url(#taskbar)"/>
+  <path d="M0 252h960" stroke="#93bdff" stroke-width="2"/>
+  <path d="M0 251h150q15 0 11 15l-6 23q-3 11-16 11H0z" fill="#194e47"/>
+  <path d="M0 251h147q14 0 10 14l-6 23q-3 10-16 10H0z" fill="url(#start)"/>
+  <use xlink:href="#monitor" x="15" y="262"/>
+  <text x="52" y="286" font-family="Tahoma, 'DejaVu Sans', sans-serif" font-size="30" font-weight="700" font-style="italic" fill="#fff">Start</text>
+  <path d="M173 262v26" stroke="#9dc4fe" opacity=".7"/>
+  <path d="M911 254h49v45h-49z" fill="#258dc4"/>
+  <path d="M911 254v45" stroke="#a1d4ff"/>
+  <g fill="#fff" opacity=".9">
+    <path d="M924 281h4v5h-4zM932 275h4v11h-4zM940 269h4v17h-4z"/>
+  </g>
+</svg>
