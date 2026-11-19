@@ -14,7 +14,7 @@ I am obsessed with building and supporting teams that develop great products to 
 
 ## Region-Aware FastProtect
 
-I built a desktop application for protecting portraits against unauthorized face recognition and generative reuse. FastProtect processes the facial region in a single pass. Its desktop viewer shows the original and processed portraits side by side.
+I built a Deep Learning Pipeline for protecting portraits against unauthorized face recognition and generative reuse. FastProtect processes the facial region in a single pass. Its desktop viewer demo shows the original and processed portraits side by side.
 
 ## Experience
 
