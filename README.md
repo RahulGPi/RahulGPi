@@ -1,4 +1,4 @@
-[![Rahul Pai, AI systems engineer. Open portfolio.](assets/rahul-pai-cover.webp)](https://rahul-pai.vercel.app/)
+[![Rahul, AI systems engineer. Open portfolio.](assets/rahul-pai-cover.webp)](https://rahul-pai.vercel.app/)
 
 I am obsessed with building and supporting teams that develop great products to help accomplish the vision.
 
